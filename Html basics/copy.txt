@@ -1,0 +1,14 @@
+HTML = > Hyper text markup language
+
+tags:
+Normal tag (paired tags)
+open bhi hote hai close bhi hote hai ex: html,head,body
+
+Self-closing tag
+khudhi band hota hai khudhi open hoota hai ex: meta
+
+ASCII : American Standerd code For Information interchange
+
+inline block tags
+inline tag
+Sementic tags
