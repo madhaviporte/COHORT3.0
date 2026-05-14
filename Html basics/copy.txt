@@ -9,6 +9,8 @@ khudhi band hota hai khudhi open hoota hai ex: meta
 
 ASCII : American Standerd code For Information interchange
 
+Iframe= kisi bhi link ko copy paste krke apne website dikha skte hai 
+
 inline block tags
 inline tag
 Sementic tags
