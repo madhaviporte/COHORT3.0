@@ -1,0 +1,11 @@
+Files - collection of single type of data
+
+Folder - containign multiple files
+
+Text 
+-Heading
+-Paragraphs
+
+Artibutes: hmare tag ke elements ko contain krke rkhta hai
+
+favicone: uper me jo image ata hai website ke nam par 
