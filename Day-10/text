@@ -3,3 +3,24 @@ M: MongoDB
 E: Express.js
 R: React.js
 N: Node.js
+
+
+DataTypes
+
+-Premitive
+  -Number(10, 20.55, -10, 999999)
+  -String('h', 'Sarthak', 'welcome to sheriyans')
+  -Boolean('true','false')
+  -undefined(varible is declered but not initialized then defoult value asign by js engine)
+  -null(nothing, can be used to intentionally make variable empty)
+  -BigInt(range of number 2 power 53-1)
+  -Symbol
+
+-Non-Premitive(Reference)
+   -Array
+   -Objects
+   -Function
+
+Alert
+Confirm
+Prompt   
