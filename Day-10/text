@@ -22,5 +22,8 @@ DataTypes
    -Function
 
 Alert
+: message alert ka ata hai
 Confirm
-Prompt   
+: confimation deta hia kkam ho gya ya nahi
+Prompt  
+: sawal puchhta hhai ye ans samne se milta hai 
