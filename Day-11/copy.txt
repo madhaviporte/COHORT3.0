@@ -10,3 +10,6 @@ conditionals
 -if
 -else if
 -else
+
+ternary operator
+console.log(10>5?'hello':'Bey')
