@@ -1,0 +1,7 @@
+React: it is a labrery of js used to create modern frontend
+-singlr page application
+
+Virtual DOM - lightweight
+Real DOm - 
+
+updates: 
