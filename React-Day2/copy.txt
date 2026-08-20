@@ -4,4 +4,11 @@ React: it is a labrery of js used to create modern frontend
 Virtual DOM - lightweight
 Real DOm - 
 
-updates: 
+updates: recouncilation hota hai
+
+1) recouncilation
+2) creating New vertual DOM
+3) comparision b/w old vertual dom vs NVD
+4)Deffining algo
+5)Changes has beed solved
+
