@@ -1,0 +1,13 @@
+DB data base
+
+two types of DB
+1)relational
+: sequence, jamble form, street
+ex=SQL,MYSQL,postgues
+
+2)non relational
+:jumbled form with unique identity
+ex= mongoDB,graphQL
+
+AWS
+microprocessor

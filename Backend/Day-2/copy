@@ -1,0 +1,23 @@
+Backend: its handle all the operation(behind the scene)
+frontend
+database-> storage inside the 
+API-> connectivity(end point )
+ex: /product , /cart , /Auth
+
+req -> acceptance only
+
+res -> response to that api
+
+protocols:
+1)http [req,res]
+2)https (http secure) [req,res]
+3)ftp(file tranfer protocol)
+4)smtp(simple mail tranfer protocol) 
+5)web-socket(two way communication)
+
+methods:
+REST API's(representational state transfer)
+GET = send data (DB)
+POST = create or save somthing (DB)
+PUT/PATCH = update somthing (DB)
+DELETE= delete anything (DB)
