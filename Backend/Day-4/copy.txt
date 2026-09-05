@@ -1,3 +1,7 @@
+mongoDB is a storage device:
+
+DB-> 1)manageble 2)safe 3)save 4)easiy asseble to the owner.
+
 DB data base
 
 two types of DB
@@ -11,3 +15,12 @@ ex= mongoDB,graphQL
 
 AWS
 microprocessor
+
+installation mongoDB
+1)storage of data
+
+Express JS ---Mongoose is the bridge for communicate --> MongoDB
+
+mongoose ODM ---> high level langauge ya low level langauge ko convert krke smjhana
+
+Backend --------(mongoose[connectivity])-------- DB
