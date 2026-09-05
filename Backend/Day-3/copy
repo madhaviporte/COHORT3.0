@@ -1,0 +1,19 @@
+NodeJs : ruun time enviroment for js and its extract from browser
+
+expressJS : framwork for nodeJS
+
+http -> protocols -> (req,res)
+
+req--> frontend se data lena
+res--> jaha se resquest aaii hai vha response bhejna
+
+req module -> 
+1)body(JSON form),
+2)quiry(extra parameter),
+3)params(dynamic rotes/path),
+4)files/file(media transfer)
+
+POSTman --> virtual frontend and use for testing & runing APIs
+
+CRUD(create,response,update,delete)
+C->POST R-> GET U-> PUT/PATCH D-> DELETE
