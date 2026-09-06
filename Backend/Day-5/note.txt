@@ -1,0 +1,42 @@
+MongoDB connected in my website
+
+REST API
+
+
+client -> frontend
+server -> Backend
+db -> storage
+
+HTTP status codes
+
+1xx-information
+2xx-success
+3xx-Redirection
+4xx-Client Error
+5xx-Server Error
+
+
+
+mongoose -> object data mondling(ODM)
+mongoose is a like manager who is manage comunications between frontend and backend.
+
+MongoDB ke liye jo mongoose use ho rha hai uska oprator hmesa promis return krega.
+
+50+ apis banana hai ham server.js me sara use nhi kr skte hai hochh-pouch
+
+backend folder structure:
+1)MVC->model view controller
+2)layer
+3)service base
+
+SERVER.JS->only connection or server start hogi
+
+APP.JS->connection ko chhodhekr jitna kuchh bhi hota hai vo ham app.js me rkhte haii
+
+MongoDB-> flexible hai kisi bhi trha ka data rakh skta hai.
+
+but
+
+Bakcend we need proper structure of everything
+
+mongoose--> structure(class)[blue print of an object]--> schema
